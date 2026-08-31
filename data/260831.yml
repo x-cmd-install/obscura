@@ -1,0 +1,61 @@
+about:
+  description: The headless browser for AI agents and web scraping
+  license: Apache-2.0
+  homepage: https://obscura.sh
+  head: 9326880
+  archived: false
+  latestVersion: v0.2.1
+  collectedAt: 2026-08-31T06:08:40Z
+timeline:
+  created: 2026-04-13
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-23
+popularity:
+  star: 22544
+  watcher: 73
+  fork: 1682
+  release: 14
+  contributor: 60
+  pullRequest: 99
+  issue: 348
+language:
+  Rust: 5516505
+  Python: 223109
+  HTML: 80404
+  JavaScript: 9599
+  Shell: 4510
+  Dockerfile: 2310
+totalLine: 5836437
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 2
+    mergedPR: 80
+    openPR: 47
+    closedIssue: 59
+    openIssue: 48
+    commit: 98
+  last90d:
+    since: 2026-06-02
+    release: 7
+    mergedPR: 231
+    openPR: 49
+    closedIssue: 185
+    openIssue: 54
+    commit: 664
+  last180d:
+    since: 2026-03-04
+    release: 14
+    mergedPR: 315
+    openPR: 49
+    closedIssue: 294
+    openIssue: 54
+    commit: 806
+  last360d:
+    since: 2025-09-05
+    release: 14
+    mergedPR: 315
+    openPR: 49
+    closedIssue: 294
+    openIssue: 54
+    commit: 806
