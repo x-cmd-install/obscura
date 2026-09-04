@@ -7,13 +7,13 @@ about:
   head: 3233542
   archived: false
   latestVersion: v0.2.1
-  collectedAt: 2026-09-04T19:58:43Z
+  collectedAt: 2026-09-04T20:40:39Z
 timeline:
   created: 2026-04-13
   lastCommit: 2026-09-04
   lastRelease: 2026-08-23
 popularity:
-  star: 24907
+  star: 24908
   watcher: 76
   fork: 1824
   release: 14
@@ -85,5 +85,73 @@ total:
   openIssue: 51
   commit: 1022
 ---
+path: /home/runner/.x-repo/github.com/h4ckf0r0day/obscura
+collectedAt: 2026-09-04T20:40:41Z
+loc:
+  Rust:
+    code: 152495
+    comments: 6784
+    blanks: 10346
+    files: 195
+  JavaScript:
+    code: 14075
+    comments: 1369
+    blanks: 438
+    files: 2
+  Python:
+    code: 5040
+    comments: 53
+    blanks: 359
+    files: 10
+  Html:
+    code: 1050
+    comments: 0
+    blanks: 13
+    files: 64
+  Toml:
+    code: 619
+    comments: 87
+    blanks: 94
+    files: 13
+  Json:
+    code: 372
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 132
+    comments: 4
+    blanks: 9
+    files: 2
+  Dockerfile:
+    code: 36
+    comments: 8
+    blanks: 12
+    files: 1
+  Svg:
+    code: 36
+    comments: 0
+    blanks: 1
+    files: 1
+  Css:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2455
+    blanks: 978
+    files: 31
+  Text:
+    code: 0
+    comments: 3709
+    blanks: 40
+    files: 6
+total:
+  code: 175903
+  comments: 22530
+  blanks: 12999
+  files: 327
 ---
 
