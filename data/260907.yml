@@ -5,19 +5,19 @@ about:
   head: 727cc46
   archived: false
   latestVersion: "v0.2.2"
-  collectedAt: 2026-09-07T05:14:41Z
+  collectedAt: 2026-09-07T19:12:47Z
 timeline:
   created: 2026-04-13
   lastCommit: 2026-09-06
   lastRelease: 2026-09-05
 popularity:
-  star: 26255
-  watcher: 79
-  fork: 1914
+  star: 26385
+  watcher: 80
+  fork: 1920
   release: 15
   contributor: 65
-  pullRequest: 469
-  issue: 389
+  pullRequest: 470
+  issue: 396
 language:
   Rust: 5827659
   Python: 223109
@@ -31,60 +31,60 @@ recent:
     since: 2026-08-08
     release: 3
     mergedPR: 106
-    openPR: 45
-    closedIssue: 76
-    openIssue: 43
+    openPR: 46
+    closedIssue: 78
+    openIssue: 48
     commit: 103
   last60d:
     since: 2026-07-09
     release: 5
     mergedPR: 201
-    openPR: 49
-    closedIssue: 167
-    openIssue: 52
+    openPR: 50
+    closedIssue: 169
+    openIssue: 57
     commit: 568
   last90d:
     since: 2026-06-09
     release: 7
     mergedPR: 248
-    openPR: 49
-    closedIssue: 208
-    openIssue: 52
+    openPR: 50
+    closedIssue: 210
+    openIssue: 57
     commit: 685
   last180d:
     since: 2026-03-11
     release: 15
     mergedPR: 366
-    openPR: 49
-    closedIssue: 337
-    openIssue: 52
+    openPR: 50
+    closedIssue: 339
+    openIssue: 57
     commit: 865
   last360d:
     since: 2025-09-12
     release: 15
     mergedPR: 366
-    openPR: 49
-    closedIssue: 337
-    openIssue: 52
+    openPR: 50
+    closedIssue: 339
+    openIssue: 57
     commit: 865
   last720d:
     since: 2024-09-17
     release: 15
     mergedPR: 366
-    openPR: 49
-    closedIssue: 337
-    openIssue: 52
+    openPR: 50
+    closedIssue: 339
+    openIssue: 57
     commit: 1074
 total:
   release: 15
   mergedPR: 366
-  openPR: 49
-  closedIssue: 337
-  openIssue: 52
+  openPR: 50
+  closedIssue: 339
+  openIssue: 57
   commit: 1074
 ---
 path: /home/runner/.x-repo/github.com/h4ckf0r0day/obscura
-collectedAt: 2026-09-07T05:14:46Z
+collectedAt: 2026-09-07T19:12:52Z
 loc:
   Rust:
     code: 155489
@@ -155,7 +155,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:14:47+00:00
+  collectedAt: 2026-09-07T19:12:53+00:00
   platform:
     darwin/arm64:
       name:  obscura-aarch64-macos-no-render.tar.gz
