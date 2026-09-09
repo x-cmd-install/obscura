@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.2"
   latestRelease: "v0.2.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:29:38Z
+  collectedAt: 2026-09-09T19:34:31Z
 timeline:
   created: 2026-04-13
   lastCommit: 2026-09-06
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 26558
-  watcher: 79
-  fork: 1937
+  star: 26622
+  watcher: 80
+  fork: 1944
   release: 15
   contributor: 65
-  pullRequest: 486
-  issue: 425
+  pullRequest: 489
+  issue: 432
 language:
   Rust: 5827659
   Python: 223109
@@ -35,60 +35,60 @@ recent:
     since: 2026-08-10
     release: 2
     mergedPR: 93
-    openPR: 62
+    openPR: 65
     closedIssue: 81
-    openIssue: 61
+    openIssue: 68
     commit: 103
   last60d:
     since: 2026-07-11
     release: 5
     mergedPR: 195
-    openPR: 66
+    openPR: 69
     closedIssue: 181
-    openIssue: 71
+    openIssue: 78
     commit: 568
   last90d:
     since: 2026-06-11
     release: 7
     mergedPR: 243
-    openPR: 66
+    openPR: 69
     closedIssue: 223
-    openIssue: 71
+    openIssue: 78
     commit: 685
   last180d:
     since: 2026-03-13
     release: 15
     mergedPR: 366
-    openPR: 66
+    openPR: 69
     closedIssue: 354
-    openIssue: 71
+    openIssue: 78
     commit: 865
   last360d:
     since: 2025-09-14
     release: 15
     mergedPR: 366
-    openPR: 66
+    openPR: 69
     closedIssue: 354
-    openIssue: 71
+    openIssue: 78
     commit: 865
   last720d:
     since: 2024-09-19
     release: 15
     mergedPR: 366
-    openPR: 66
+    openPR: 69
     closedIssue: 354
-    openIssue: 71
+    openIssue: 78
     commit: 1074
 total:
   release: 15
   mergedPR: 366
-  openPR: 66
+  openPR: 69
   closedIssue: 354
-  openIssue: 71
+  openIssue: 78
   commit: 1074
 ---
 path: /home/runner/.x-repo/github.com/h4ckf0r0day/obscura
-collectedAt: 2026-09-09T05:29:43Z
+collectedAt: 2026-09-09T19:34:40Z
 loc:
   Rust:
     code: 155489
