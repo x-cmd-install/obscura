@@ -14,12 +14,12 @@ x install obscura
 
 ## Code insight
 
-Total: **177,069** lines of code across **288** files in the top 5 languages.
+Total: **179,859** lines of code across **290** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 155,489 | 6,920 | 10,544 | 199 |
-| JavaScript | 14,286 | 1,383 | 441 | 2 |
+| Rust | 158,220 | 7,159 | 10,759 | 201 |
+| JavaScript | 14,345 | 1,389 | 441 | 2 |
 | Python | 5,040 | 53 | 359 | 10 |
 | Html | 1,050 | 0 | 13 | 64 |
 | Toml | 619 | 87 | 94 | 13 |
@@ -38,22 +38,22 @@ Total: **177,069** lines of code across **288** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 26,700 · **Forks**: 1,950 · **Open issues**: 436 · **Contributors**: 65
+- **Stars**: 26,704 · **Forks**: 1,950 · **Open issues**: 436 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 366 · **Open PRs**: 70 · **Closed issues**: 354 · **Open issues**: 82 · **Commits**: 1076
+- **Releases**: 15 · **Merged PRs**: 382 · **Open PRs**: 58 · **Closed issues**: 368 · **Open issues**: 68 · **Commits**: 1108
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 87 | 62 | 74 | 69 | 105 |
-| last60d | 2026-07-12 | 4 | 187 | 70 | 172 | 82 | 570 |
-| 90d | 2026-06-12 | 6 | 242 | 70 | 220 | 82 | 687 |
-| last180d | 2026-03-14 | 15 | 366 | 70 | 354 | 82 | 867 |
-| 360d | 2025-09-15 | 15 | 366 | 70 | 354 | 82 | 867 |
-| last720d | 2024-09-20 | 15 | 366 | 70 | 354 | 82 | 1076 |
+| 30d | 2026-08-11 | 2 | 103 | 50 | 88 | 55 | 121 |
+| last60d | 2026-07-12 | 4 | 203 | 58 | 186 | 68 | 586 |
+| 90d | 2026-06-12 | 6 | 258 | 58 | 234 | 68 | 703 |
+| last180d | 2026-03-14 | 15 | 382 | 58 | 368 | 68 | 883 |
+| 360d | 2025-09-15 | 15 | 382 | 58 | 368 | 68 | 883 |
+| last720d | 2024-09-20 | 15 | 382 | 58 | 368 | 68 | 1108 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:38:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:20:40Z._
