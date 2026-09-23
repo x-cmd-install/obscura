@@ -4,7 +4,7 @@
 
 The headless browser for AI agents and web scraping
 
-[![x-cmd/install — obscura Code Quality Monitoring Repo Card](https://repo.x-cmd.io/obscura.svg?lang=zh)](https://x-cmd.com/install/obscura)
+[![x-cmd/install — obscura Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/obscura.svg?lang=zh)](https://x-cmd.com/install/obscura)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install obscura
 
 ## 流行度
 
-- **Star**: 27,711 · **Fork**: 2,038 · **开放 issue**: 487 · **贡献者**: 70
+- **Star**: 27,751 · **Fork**: 2,043 · **开放 issue**: 487 · **贡献者**: 70
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install obscura
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 106 | 78 | 94 | 75 | 106 |
-| last60d | 2026-07-24 | 5 | 204 | 86 | 177 | 95 | 452 |
-| 90d | 2026-06-24 | 7 | 271 | 87 | 249 | 95 | 704 |
-| last180d | 2026-03-26 | 16 | 414 | 87 | 392 | 95 | 922 |
-| 360d | 2025-09-27 | 16 | 414 | 87 | 392 | 95 | 922 |
-| last720d | 2024-10-02 | 16 | 414 | 87 | 392 | 95 | 1177 |
+| 30d | 2026-08-24 | 2 | 101 | 77 | 88 | 75 | 106 |
+| last60d | 2026-07-25 | 5 | 204 | 86 | 175 | 94 | 452 |
+| 90d | 2026-06-25 | 6 | 270 | 87 | 249 | 95 | 704 |
+| last180d | 2026-03-27 | 16 | 414 | 87 | 392 | 95 | 922 |
+| 360d | 2025-09-28 | 16 | 414 | 87 | 392 | 95 | 922 |
+| last720d | 2024-10-03 | 16 | 414 | 87 | 392 | 95 | 1177 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ obscura 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:41:24Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:43:44Z._

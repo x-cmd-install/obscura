@@ -4,7 +4,7 @@
 
 The headless browser for AI agents and web scraping
 
-[![x-cmd/install — obscura Code Quality Monitoring Repo Card](https://repo.x-cmd.io/obscura.svg)](https://x-cmd.com/install/obscura)
+[![x-cmd/install — obscura Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/obscura.svg)](https://x-cmd.com/install/obscura)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **185,630** lines of code across **296** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 27,711 · **Forks**: 2,038 · **Open issues**: 487 · **Contributors**: 70
+- **Stars**: 27,751 · **Forks**: 2,043 · **Open issues**: 487 · **Contributors**: 70
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **185,630** lines of code across **296** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 106 | 78 | 94 | 75 | 106 |
-| last60d | 2026-07-24 | 5 | 204 | 86 | 177 | 95 | 452 |
-| 90d | 2026-06-24 | 7 | 271 | 87 | 249 | 95 | 704 |
-| last180d | 2026-03-26 | 16 | 414 | 87 | 392 | 95 | 922 |
-| 360d | 2025-09-27 | 16 | 414 | 87 | 392 | 95 | 922 |
-| last720d | 2024-10-02 | 16 | 414 | 87 | 392 | 95 | 1177 |
+| 30d | 2026-08-24 | 2 | 101 | 77 | 88 | 75 | 106 |
+| last60d | 2026-07-25 | 5 | 204 | 86 | 175 | 94 | 452 |
+| 90d | 2026-06-25 | 6 | 270 | 87 | 249 | 95 | 704 |
+| last180d | 2026-03-27 | 16 | 414 | 87 | 392 | 95 | 922 |
+| 360d | 2025-09-28 | 16 | 414 | 87 | 392 | 95 | 922 |
+| last720d | 2024-10-03 | 16 | 414 | 87 | 392 | 95 | 1177 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:41:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:43:43Z._
