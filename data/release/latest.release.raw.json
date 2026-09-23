@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 44569919,
       "digest": "sha256:d0d443c4ebfcf41b29582f4637fe0d3e266a1dbff5eaa877af5c788e8fb1fb8c",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-09-21T00:17:19Z",
       "updated_at": "2026-09-21T00:17:25Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-aarch64-linux-no-render-stealth.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 41365789,
       "digest": "sha256:f5e643322b2e1e78f8dbef33af999be00acb64413763c6d0ab91a079921fb2fe",
-      "download_count": 7,
+      "download_count": 13,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:24Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-aarch64-linux-no-render.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 72135122,
       "digest": "sha256:dab4184c6b08a6066eaa5b9935ee5c3776fbc9f0173edfae5bf67990a63bb62e",
-      "download_count": 43,
+      "download_count": 55,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:27Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-aarch64-linux-stealth.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 68921993,
       "digest": "sha256:5ecf980bca3060236a7a86ec7ed83d943e6598ee87caa46d20325d90bc75f979",
-      "download_count": 48,
+      "download_count": 68,
       "created_at": "2026-09-21T00:17:19Z",
       "updated_at": "2026-09-21T00:17:27Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-aarch64-linux.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 41923953,
       "digest": "sha256:93cc696f52c60ed113f366eaf9506fbf27b9e6543e82d3d739783dabf63750f8",
-      "download_count": 8,
+      "download_count": 13,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:24Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-aarch64-macos-no-render-stealth.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 38857163,
       "digest": "sha256:7bcb3b3c8065f3b4ac56cf1a80b04610ad3efd11e8d442bc96c0c9c61dae8a1a",
-      "download_count": 11,
+      "download_count": 21,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:24Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-aarch64-macos-no-render.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 69643025,
       "digest": "sha256:5d3127d9e8eedacb0e35cdb1d174ca837b80e79405074d0b16010fbe818f21d0",
-      "download_count": 44,
+      "download_count": 77,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:27Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-aarch64-macos-stealth.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 66569973,
       "digest": "sha256:45653cfad226f1c9b415603a2ed59477fcbd6335c742338ce133c05de0bdd056",
-      "download_count": 124,
+      "download_count": 192,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:26Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-aarch64-macos.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 46343399,
       "digest": "sha256:56239859ef7bc34439013834fd0491ff21b0d0debe372d5a6e373dd025ea3198",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-09-21T00:17:19Z",
       "updated_at": "2026-09-21T00:17:25Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-linux-no-render-stealth.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 42966565,
       "digest": "sha256:b5e55e8f2c97814127a521cd59af1a84b79dc40cf658fda04df04af81a2d89f3",
-      "download_count": 25,
+      "download_count": 33,
       "created_at": "2026-09-21T00:17:19Z",
       "updated_at": "2026-09-21T00:17:24Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-linux-no-render.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 74262812,
       "digest": "sha256:1283fff4b781eca438294ae1ba4bf986b63d7628097150a3910ed8f3e3e2142e",
-      "download_count": 170,
+      "download_count": 274,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:27Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-linux-stealth.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 70880637,
       "digest": "sha256:1534d1e6ddaf3d080ec4091eb41d0a4d8cc042a48b607d3c410fc13b482a9eec",
-      "download_count": 1928,
+      "download_count": 3481,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:27Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-linux.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 72014010,
       "digest": "sha256:c779c3facf1b491fca139dd717bafd684cf9c7dea478a50e8f116b4de7605e6b",
-      "download_count": 7,
+      "download_count": 12,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:27Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-macos-stealth.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 68697908,
       "digest": "sha256:d7c48122debc2ad9b24842df44560860dba765ea928b3f636b7f053225245116",
-      "download_count": 27,
+      "download_count": 40,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:26Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-macos.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 44439008,
       "digest": "sha256:f3890f8f89c9e7fcdc56941d0a5920e78c5d7b744d5e081bc5a9f3697467e65b",
-      "download_count": 32,
+      "download_count": 37,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:24Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-windows-no-render-stealth.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 40435550,
       "digest": "sha256:060481c7860acedb27dd72b99a3f3c7aa0903a22a6196c398239d490aea7cfa4",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:24Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-windows-no-render.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 72155275,
       "digest": "sha256:4d7311c69c3263bb8376055f9cb846968b75c77c444d4b5efa74b1018b456fb9",
-      "download_count": 100,
+      "download_count": 143,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:27Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-windows-stealth.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 68156208,
       "digest": "sha256:781a1b8bd12b65ec5aba95842e75e6f56b3101d360397506c0e35fe3f78536e8",
-      "download_count": 157,
+      "download_count": 227,
       "created_at": "2026-09-21T00:17:18Z",
       "updated_at": "2026-09-21T00:17:26Z",
       "browser_download_url": "https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.3/obscura-x86_64-windows.zip"
