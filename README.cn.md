@@ -38,22 +38,22 @@ x install obscura
 
 ## 流行度
 
-- **Star**: 29,122 · **Fork**: 2,172 · **开放 issue**: 566 · **贡献者**: 89
+- **Star**: 29,166 · **Fork**: 2,182 · **开放 issue**: 567 · **贡献者**: 89
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 568 · **开放 PR**: 92 · **已关闭 issue**: 464 · **开放 issue**: 102 · **提交数**: 1560
+- **发布数**: 18 · **已合并 PR**: 568 · **开放 PR**: 93 · **已关闭 issue**: 464 · **开放 issue**: 103 · **提交数**: 1560
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 140 | 34 | 43 | 37 | 166 |
-| last60d | 2026-08-23 | 5 | 260 | 83 | 164 | 85 | 300 |
-| 90d | 2026-07-24 | 7 | 358 | 91 | 250 | 102 | 644 |
-| last180d | 2026-04-25 | 17 | 561 | 92 | 440 | 102 | 1096 |
-| 360d | 2025-10-27 | 18 | 568 | 92 | 464 | 102 | 1111 |
-| last720d | 2024-11-01 | 18 | 568 | 92 | 464 | 102 | 1560 |
+| 30d | 2026-09-23 | 2 | 140 | 35 | 41 | 38 | 166 |
+| last60d | 2026-08-24 | 4 | 255 | 83 | 158 | 86 | 300 |
+| 90d | 2026-07-25 | 7 | 358 | 92 | 248 | 102 | 644 |
+| last180d | 2026-04-26 | 16 | 561 | 93 | 435 | 103 | 1096 |
+| 360d | 2025-10-28 | 18 | 568 | 93 | 464 | 103 | 1111 |
+| last720d | 2024-11-02 | 18 | 568 | 93 | 464 | 103 | 1560 |
 
 ## Release 资产
 
@@ -80,6 +80,15 @@ x install obscura
 | [obscura-x86_64-windows-stealth.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-windows-stealth.zip) | 69.5 MiB | `native/win/x64` |
 | [obscura-x86_64-windows.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-windows.zip) | 65.6 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/obscura) 上共有 **4** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.2.5` | ✅ latest |
+| Nix unstable | `0.2.2` | ⚠️ outdated |
+
 ## 改进这些数据
 
 obscura 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `obscura` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -89,4 +98,4 @@ obscura 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:20:01Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:20:54Z._
