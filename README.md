@@ -14,15 +14,15 @@ x install obscura
 
 ## Code insight
 
-Total: **215,859** lines of code across **352** files in the top 5 languages.
+Total: **222,414** lines of code across **395** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 189,634 | 8,001 | 12,490 | 244 |
+| Rust | 195,986 | 8,058 | 13,069 | 283 |
 | JavaScript | 18,336 | 1,679 | 501 | 3 |
-| Python | 5,403 | 55 | 404 | 14 |
+| Python | 5,469 | 56 | 417 | 15 |
 | Html | 1,199 | 0 | 13 | 77 |
-| Toml | 654 | 87 | 100 | 14 |
+| Toml | 791 | 95 | 125 | 17 |
 
 ## Source
 
@@ -32,53 +32,53 @@ Total: **215,859** lines of code across **352** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.5` (2026-10-17)
+- **Latest**: `v0.2.6` (2026-10-31)
 - **Last commit**: 2026-10-31
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 29,814 · **Forks**: 2,250 · **Open issues**: 593 · **Contributors**: 95
+- **Stars**: 29,912 · **Forks**: 2,253 · **Open issues**: 596 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 594 · **Open PRs**: 96 · **Closed issues**: 483 · **Open issues**: 110 · **Commits**: 1626
+- **Releases**: 19 · **Merged PRs**: 597 · **Open PRs**: 99 · **Closed issues**: 485 · **Open issues**: 111 · **Commits**: 1634
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 116 | 33 | 46 | 34 | 141 |
-| last60d | 2026-09-01 | 4 | 253 | 67 | 157 | 81 | 305 |
-| 90d | 2026-08-02 | 6 | 356 | 94 | 244 | 106 | 565 |
-| last180d | 2026-05-04 | 15 | 556 | 96 | 424 | 110 | 1108 |
-| 360d | 2025-11-05 | 18 | 594 | 96 | 483 | 110 | 1141 |
-| last720d | 2024-11-10 | 18 | 594 | 96 | 483 | 110 | 1626 |
+| 30d | 2026-10-02 | 3 | 114 | 33 | 43 | 33 | 145 |
+| last60d | 2026-09-02 | 5 | 248 | 67 | 154 | 81 | 309 |
+| 90d | 2026-08-03 | 7 | 357 | 97 | 246 | 106 | 569 |
+| last180d | 2026-05-05 | 16 | 558 | 99 | 425 | 111 | 1112 |
+| 360d | 2025-11-06 | 19 | 597 | 99 | 485 | 111 | 1145 |
+| last720d | 2024-11-11 | 19 | 597 | 99 | 485 | 111 | 1634 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [obscura-aarch64-linux-no-render-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-aarch64-linux-no-render-stealth.tar.gz) | 43.0 MiB | `native/linux/arm64` |
-| [obscura-aarch64-linux-no-render.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-aarch64-linux-no-render.tar.gz) | 39.9 MiB | `native/linux/arm64` |
-| [obscura-aarch64-linux-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-aarch64-linux-stealth.tar.gz) | 69.3 MiB | `native/linux/arm64` |
-| [obscura-aarch64-linux.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-aarch64-linux.tar.gz) | 66.3 MiB | `native/linux/arm64` |
-| [obscura-aarch64-macos-no-render-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-aarch64-macos-no-render-stealth.tar.gz) | 40.4 MiB | `native/darwin/arm64` |
-| [obscura-aarch64-macos-no-render.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-aarch64-macos-no-render.tar.gz) | 37.5 MiB | `native/darwin/arm64` |
-| [obscura-aarch64-macos-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-aarch64-macos-stealth.tar.gz) | 67.0 MiB | `native/darwin/arm64` |
-| [obscura-aarch64-macos.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-aarch64-macos.tar.gz) | 64.0 MiB | `native/darwin/arm64` |
-| [obscura-x86_64-linux-no-render-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-linux-no-render-stealth.tar.gz) | 44.7 MiB | `native/linux/x64` |
-| [obscura-x86_64-linux-no-render.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-linux-no-render.tar.gz) | 41.5 MiB | `native/linux/x64` |
-| [obscura-x86_64-linux-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-linux-stealth.tar.gz) | 71.5 MiB | `native/linux/x64` |
-| [obscura-x86_64-linux.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-linux.tar.gz) | 68.2 MiB | `native/linux/x64` |
-| [obscura-x86_64-macos-no-render-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-macos-no-render-stealth.tar.gz) | 42.7 MiB | `native/darwin/x64` |
-| [obscura-x86_64-macos-no-render.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-macos-no-render.tar.gz) | 39.5 MiB | `native/darwin/x64` |
-| [obscura-x86_64-macos-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-macos-stealth.tar.gz) | 69.3 MiB | `native/darwin/x64` |
-| [obscura-x86_64-macos.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-macos.tar.gz) | 66.2 MiB | `native/darwin/x64` |
-| [obscura-x86_64-windows-no-render-stealth.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-windows-no-render-stealth.zip) | 42.9 MiB | `native/win/x64` |
-| [obscura-x86_64-windows-no-render.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-windows-no-render.zip) | 39.1 MiB | `native/win/x64` |
-| [obscura-x86_64-windows-stealth.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-windows-stealth.zip) | 69.5 MiB | `native/win/x64` |
-| [obscura-x86_64-windows.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.5/obscura-x86_64-windows.zip) | 65.6 MiB | `native/win/x64` |
+| [obscura-aarch64-linux-no-render-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-aarch64-linux-no-render-stealth.tar.gz) | 43.1 MiB | `native/linux/arm64` |
+| [obscura-aarch64-linux-no-render.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-aarch64-linux-no-render.tar.gz) | 40.0 MiB | `native/linux/arm64` |
+| [obscura-aarch64-linux-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-aarch64-linux-stealth.tar.gz) | 69.5 MiB | `native/linux/arm64` |
+| [obscura-aarch64-linux.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-aarch64-linux.tar.gz) | 66.5 MiB | `native/linux/arm64` |
+| [obscura-aarch64-macos-no-render-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-aarch64-macos-no-render-stealth.tar.gz) | 40.5 MiB | `native/darwin/arm64` |
+| [obscura-aarch64-macos-no-render.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-aarch64-macos-no-render.tar.gz) | 37.6 MiB | `native/darwin/arm64` |
+| [obscura-aarch64-macos-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-aarch64-macos-stealth.tar.gz) | 67.2 MiB | `native/darwin/arm64` |
+| [obscura-aarch64-macos.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-aarch64-macos.tar.gz) | 64.2 MiB | `native/darwin/arm64` |
+| [obscura-x86_64-linux-no-render-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-linux-no-render-stealth.tar.gz) | 44.8 MiB | `native/linux/x64` |
+| [obscura-x86_64-linux-no-render.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-linux-no-render.tar.gz) | 41.5 MiB | `native/linux/x64` |
+| [obscura-x86_64-linux-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-linux-stealth.tar.gz) | 71.7 MiB | `native/linux/x64` |
+| [obscura-x86_64-linux.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-linux.tar.gz) | 68.5 MiB | `native/linux/x64` |
+| [obscura-x86_64-macos-no-render-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-macos-no-render-stealth.tar.gz) | 42.8 MiB | `native/darwin/x64` |
+| [obscura-x86_64-macos-no-render.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-macos-no-render.tar.gz) | 39.6 MiB | `native/darwin/x64` |
+| [obscura-x86_64-macos-stealth.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-macos-stealth.tar.gz) | 69.5 MiB | `native/darwin/x64` |
+| [obscura-x86_64-macos.tar.gz](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-macos.tar.gz) | 66.4 MiB | `native/darwin/x64` |
+| [obscura-x86_64-windows-no-render-stealth.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-windows-no-render-stealth.zip) | 43.0 MiB | `native/win/x64` |
+| [obscura-x86_64-windows-no-render.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-windows-no-render.zip) | 39.2 MiB | `native/win/x64` |
+| [obscura-x86_64-windows-stealth.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-windows-stealth.zip) | 69.7 MiB | `native/win/x64` |
+| [obscura-x86_64-windows.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.6/obscura-x86_64-windows.zip) | 65.9 MiB | `native/win/x64` |
 
 ## Distribution status
 
@@ -86,7 +86,7 @@ Reported by **4** distros on [repology.org](https://repology.org/project/obscura
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.2.5` | ✅ latest |
+| Homebrew | `0.2.6` | ✅ latest |
 | Nix unstable | `0.2.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -98,4 +98,4 @@ Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:11:38Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:45:40Z._
