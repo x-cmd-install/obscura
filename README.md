@@ -33,27 +33,27 @@ Total: **223,077** lines of code across **396** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.6` (2026-10-31)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 30,235 · **Forks**: 2,286 · **Open issues**: 605 · **Contributors**: 95
+- **Stars**: 30,313 · **Forks**: 2,292 · **Open issues**: 609 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 601 · **Open PRs**: 117 · **Closed issues**: 488 · **Open issues**: 117 · **Commits**: 1647
+- **Releases**: 19 · **Merged PRs**: 603 · **Open PRs**: 121 · **Closed issues**: 488 · **Open issues**: 121 · **Commits**: 1651
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 90 | 51 | 43 | 39 | 103 |
-| last60d | 2026-09-04 | 5 | 239 | 83 | 152 | 85 | 271 |
-| 90d | 2026-08-05 | 7 | 348 | 115 | 238 | 112 | 414 |
-| last180d | 2026-05-07 | 16 | 561 | 117 | 422 | 117 | 1107 |
-| 360d | 2025-11-08 | 19 | 601 | 117 | 488 | 117 | 1152 |
-| last720d | 2024-11-13 | 19 | 601 | 117 | 488 | 117 | 1647 |
+| 30d | 2026-10-05 | 2 | 88 | 53 | 41 | 43 | 105 |
+| last60d | 2026-09-05 | 5 | 239 | 86 | 147 | 86 | 273 |
+| 90d | 2026-08-06 | 7 | 349 | 119 | 238 | 116 | 416 |
+| last180d | 2026-05-08 | 16 | 561 | 121 | 420 | 121 | 1109 |
+| 360d | 2025-11-09 | 19 | 602 | 121 | 488 | 121 | 1154 |
+| last720d | 2024-11-14 | 19 | 602 | 121 | 488 | 121 | 1651 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:46:20Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:04:29Z._
