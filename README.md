@@ -38,22 +38,22 @@ Total: **223,605** lines of code across **397** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,368 · **Forks**: 2,304 · **Open issues**: 609 · **Contributors**: 96
+- **Stars**: 30,429 · **Forks**: 2,309 · **Open issues**: 610 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 607 · **Open PRs**: 119 · **Closed issues**: 491 · **Open issues**: 118 · **Commits**: 1655
+- **Releases**: 19 · **Merged PRs**: 607 · **Open PRs**: 119 · **Closed issues**: 491 · **Open issues**: 119 · **Commits**: 1656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 88 | 50 | 39 | 38 | 109 |
-| last60d | 2026-09-06 | 4 | 238 | 83 | 144 | 77 | 277 |
-| 90d | 2026-08-07 | 7 | 353 | 115 | 241 | 110 | 420 |
-| last180d | 2026-05-09 | 16 | 565 | 119 | 421 | 118 | 1113 |
-| 360d | 2025-11-10 | 19 | 607 | 119 | 491 | 118 | 1158 |
-| last720d | 2024-11-15 | 19 | 607 | 119 | 491 | 118 | 1655 |
+| 30d | 2026-10-07 | 2 | 87 | 50 | 39 | 38 | 110 |
+| last60d | 2026-09-07 | 4 | 238 | 82 | 139 | 75 | 278 |
+| 90d | 2026-08-08 | 7 | 347 | 115 | 230 | 111 | 421 |
+| last180d | 2026-05-10 | 16 | 564 | 119 | 421 | 119 | 1114 |
+| 360d | 2025-11-11 | 19 | 607 | 119 | 491 | 119 | 1159 |
+| last720d | 2024-11-16 | 19 | 607 | 119 | 491 | 119 | 1656 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:23:48Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:16:01Z._
