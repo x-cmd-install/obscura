@@ -14,11 +14,11 @@ x install obscura
 
 ## Code insight
 
-Total: **230,892** lines of code across **406** files in the top 5 languages.
+Total: **231,165** lines of code across **407** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 203,126 | 8,123 | 13,420 | 291 |
+| Rust | 203,399 | 8,130 | 13,443 | 292 |
 | JavaScript | 19,254 | 1,705 | 513 | 3 |
 | Python | 5,622 | 57 | 429 | 16 |
 | Html | 1,223 | 0 | 13 | 79 |
@@ -38,22 +38,22 @@ Total: **230,892** lines of code across **406** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31,863 · **Forks**: 2,433 · **Open issues**: 631 · **Contributors**: 99
+- **Stars**: 32,348 · **Forks**: 2,491 · **Open issues**: 637 · **Contributors**: 99
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 634 · **Open PRs**: 100 · **Closed issues**: 520 · **Open issues**: 111 · **Commits**: 1695
+- **Releases**: 19 · **Merged PRs**: 635 · **Open PRs**: 102 · **Closed issues**: 520 · **Open issues**: 117 · **Commits**: 1702
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 106 | 39 | 51 | 38 | 106 |
-| last60d | 2026-09-11 | 4 | 249 | 64 | 129 | 64 | 276 |
-| 90d | 2026-08-12 | 6 | 353 | 94 | 239 | 100 | 408 |
-| last180d | 2026-05-14 | 14 | 582 | 100 | 438 | 111 | 1107 |
-| 360d | 2025-11-15 | 19 | 634 | 100 | 520 | 111 | 1187 |
-| last720d | 2024-11-20 | 19 | 634 | 100 | 520 | 111 | 1695 |
+| 30d | 2026-10-12 | 2 | 104 | 38 | 50 | 41 | 112 |
+| last60d | 2026-09-12 | 4 | 239 | 66 | 126 | 70 | 282 |
+| 90d | 2026-08-13 | 6 | 350 | 96 | 238 | 106 | 414 |
+| last180d | 2026-05-15 | 13 | 583 | 102 | 436 | 117 | 1113 |
+| 360d | 2025-11-16 | 19 | 635 | 102 | 520 | 117 | 1193 |
+| last720d | 2024-11-21 | 19 | 635 | 102 | 520 | 117 | 1702 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:55:57Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:07:55Z._
