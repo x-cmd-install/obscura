@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: obscura
   visiblename: obscura
-  version: 0.2.6
+  version: 0.2.7
   origversion: null
   status: newest
   summary: Headless browser for AI agents and web scraping
@@ -32,7 +32,7 @@
   subrepo: main
   binname: obscura
   visiblename: obscura
-  version: 0.2.6
+  version: 0.2.7
   origversion: null
   status: newest
   licenses:
