@@ -38,22 +38,22 @@ Total: **232,194** lines of code across **408** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 35,732 · **Forks**: 2,816 · **Open issues**: 675 · **Contributors**: 105
+- **Stars**: 36,132 · **Forks**: 2,865 · **Open issues**: 678 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 653 · **Open PRs**: 121 · **Closed issues**: 536 · **Open issues**: 139 · **Commits**: 1724
+- **Releases**: 20 · **Merged PRs**: 653 · **Open PRs**: 125 · **Closed issues**: 537 · **Open issues**: 141 · **Commits**: 1724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 3 | 100 | 54 | 61 | 63 | 94 |
-| last60d | 2026-09-17 | 5 | 241 | 79 | 124 | 91 | 271 |
-| 90d | 2026-08-18 | 7 | 354 | 115 | 243 | 126 | 415 |
-| last180d | 2026-05-20 | 14 | 600 | 121 | 450 | 139 | 1120 |
-| 360d | 2025-11-21 | 20 | 653 | 121 | 536 | 139 | 1212 |
-| last720d | 2024-11-26 | 20 | 653 | 121 | 536 | 139 | 1724 |
+| 30d | 2026-10-18 | 2 | 99 | 57 | 61 | 64 | 94 |
+| last60d | 2026-09-18 | 5 | 240 | 83 | 124 | 92 | 271 |
+| 90d | 2026-08-19 | 7 | 352 | 119 | 244 | 127 | 415 |
+| last180d | 2026-05-21 | 14 | 600 | 125 | 448 | 141 | 1120 |
+| 360d | 2025-11-22 | 20 | 653 | 125 | 537 | 141 | 1212 |
+| last720d | 2024-11-27 | 20 | 653 | 125 | 537 | 141 | 1724 |
 
 ## Release assets
 
@@ -80,15 +80,6 @@ Total: **232,194** lines of code across **408** files in the top 5 languages.
 | [obscura-x86_64-windows-stealth.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.7/obscura-x86_64-windows-stealth.zip) | 73.4 MiB | `native/win/x64` |
 | [obscura-x86_64-windows.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.7/obscura-x86_64-windows.zip) | 69.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/obscura). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.2.7` | ✅ latest |
-| Nix unstable | `0.2.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `obscura` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +89,4 @@ Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:33:38Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:30:04Z._
