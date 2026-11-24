@@ -14,11 +14,11 @@ x install obscura
 
 ## Code insight
 
-Total: **240,214** lines of code across **432** files in the top 5 languages.
+Total: **241,239** lines of code across **432** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 211,788 | 8,263 | 13,944 | 308 |
+| Rust | 212,813 | 8,280 | 13,991 | 308 |
 | JavaScript | 19,672 | 1,714 | 522 | 4 |
 | Python | 5,706 | 57 | 444 | 17 |
 | Html | 1,327 | 0 | 13 | 86 |
@@ -33,27 +33,27 @@ Total: **240,214** lines of code across **432** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.7` (2026-11-13)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-24
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 37,075 · **Forks**: 2,948 · **Open issues**: 700 · **Contributors**: 106
+- **Stars**: 37,193 · **Forks**: 2,962 · **Open issues**: 700 · **Contributors**: 107
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 697 · **Open PRs**: 123 · **Closed issues**: 545 · **Open issues**: 155 · **Commits**: 1828
+- **Releases**: 20 · **Merged PRs**: 703 · **Open PRs**: 122 · **Closed issues**: 548 · **Open issues**: 152 · **Commits**: 1845
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 110 | 56 | 54 | 68 | 130 |
-| last60d | 2026-09-24 | 4 | 252 | 89 | 104 | 105 | 294 |
-| 90d | 2026-08-25 | 6 | 379 | 115 | 234 | 137 | 441 |
-| last180d | 2026-05-27 | 14 | 632 | 123 | 450 | 155 | 1168 |
-| 360d | 2025-11-28 | 20 | 697 | 123 | 545 | 155 | 1275 |
-| last720d | 2024-12-03 | 20 | 697 | 123 | 545 | 155 | 1828 |
+| 30d | 2026-10-25 | 2 | 113 | 55 | 57 | 65 | 139 |
+| last60d | 2026-09-25 | 4 | 257 | 88 | 107 | 101 | 303 |
+| 90d | 2026-08-26 | 6 | 382 | 112 | 234 | 134 | 450 |
+| last180d | 2026-05-28 | 14 | 637 | 122 | 451 | 152 | 1177 |
+| 360d | 2025-11-29 | 20 | 703 | 122 | 548 | 152 | 1284 |
+| last720d | 2024-12-04 | 20 | 703 | 122 | 548 | 152 | 1845 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:48:33Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:50:07Z._
