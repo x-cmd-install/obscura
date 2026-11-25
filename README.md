@@ -14,12 +14,12 @@ x install obscura
 
 ## Code insight
 
-Total: **241,239** lines of code across **432** files in the top 5 languages.
+Total: **241,730** lines of code across **433** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 212,813 | 8,280 | 13,991 | 308 |
-| JavaScript | 19,672 | 1,714 | 522 | 4 |
+| Rust | 213,305 | 8,292 | 14,017 | 309 |
+| JavaScript | 19,671 | 1,717 | 522 | 4 |
 | Python | 5,706 | 57 | 444 | 17 |
 | Html | 1,327 | 0 | 13 | 86 |
 | Toml | 792 | 95 | 125 | 17 |
@@ -33,27 +33,27 @@ Total: **241,239** lines of code across **432** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.7` (2026-11-13)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 37,193 · **Forks**: 2,962 · **Open issues**: 700 · **Contributors**: 107
+- **Stars**: 37,306 · **Forks**: 2,980 · **Open issues**: 705 · **Contributors**: 109
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 703 · **Open PRs**: 122 · **Closed issues**: 548 · **Open issues**: 152 · **Commits**: 1845
+- **Releases**: 20 · **Merged PRs**: 707 · **Open PRs**: 122 · **Closed issues**: 552 · **Open issues**: 153 · **Commits**: 1849
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 113 | 55 | 57 | 65 | 139 |
-| last60d | 2026-09-25 | 4 | 257 | 88 | 107 | 101 | 303 |
-| 90d | 2026-08-26 | 6 | 382 | 112 | 234 | 134 | 450 |
-| last180d | 2026-05-28 | 14 | 637 | 122 | 451 | 152 | 1177 |
-| 360d | 2025-11-29 | 20 | 703 | 122 | 548 | 152 | 1284 |
-| last720d | 2024-12-04 | 20 | 703 | 122 | 548 | 152 | 1845 |
+| 30d | 2026-10-26 | 2 | 117 | 55 | 60 | 66 | 143 |
+| last60d | 2026-09-26 | 4 | 254 | 82 | 109 | 97 | 307 |
+| 90d | 2026-08-27 | 6 | 385 | 112 | 238 | 134 | 454 |
+| last180d | 2026-05-29 | 14 | 638 | 122 | 450 | 153 | 1181 |
+| 360d | 2025-11-30 | 20 | 707 | 122 | 552 | 153 | 1288 |
+| last720d | 2024-12-05 | 20 | 707 | 122 | 552 | 153 | 1849 |
 
 ## Release assets
 
@@ -80,15 +80,6 @@ Total: **241,239** lines of code across **432** files in the top 5 languages.
 | [obscura-x86_64-windows-stealth.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.7/obscura-x86_64-windows-stealth.zip) | 73.4 MiB | `native/win/x64` |
 | [obscura-x86_64-windows.zip](https://github.com/h4ckf0r0day/obscura/releases/download/v0.2.7/obscura-x86_64-windows.zip) | 69.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/obscura). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.2.7` | ✅ latest |
-| Nix unstable | `0.2.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `obscura` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +89,4 @@ Install metadata for obscura lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:50:07Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:08:52Z._
