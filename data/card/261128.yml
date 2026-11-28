@@ -1,0 +1,166 @@
+about:
+  description: "The headless browser for AI agents and web scraping"
+  license: Apache-2.0
+  homepage: https://obscura.sh
+  head: efe1c95
+  archived: false
+  latestVersion: "v0.2.7"
+  latestRelease: "v0.2.7"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:04:35Z
+timeline:
+  created: 2026-04-13
+  lastCommit: 2026-11-25
+  lastVersion: 2026-11-13
+  lastRelease: 2026-11-13
+  lastPrerelease: 
+popularity:
+  star: 37855
+  watcher: 103
+  fork: 3028
+  release: 20
+  contributor: 110
+  pullRequest: 969
+  issue: 709
+language:
+  Rust: 8630928
+  Python: 267264
+  HTML: 107023
+  JavaScript: 57247
+  PowerShell: 11767
+  Shell: 4510
+  Dockerfile: 3146
+totalBytes: 9081885
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 118
+    openPR: 63
+    closedIssue: 57
+    openIssue: 64
+    commit: 150
+  last60d:
+    since: 2026-09-29
+    release: 4
+    mergedPR: 256
+    openPR: 91
+    closedIssue: 108
+    openIssue: 96
+    commit: 314
+  last90d:
+    since: 2026-08-30
+    release: 6
+    mergedPR: 374
+    openPR: 116
+    closedIssue: 232
+    openIssue: 131
+    commit: 461
+  last180d:
+    since: 2026-06-01
+    release: 13
+    mergedPR: 636
+    openPR: 131
+    closedIssue: 450
+    openIssue: 155
+    commit: 1188
+  last360d:
+    since: 2025-12-03
+    release: 20
+    mergedPR: 714
+    openPR: 131
+    closedIssue: 554
+    openIssue: 155
+    commit: 1295
+  last720d:
+    since: 2024-12-08
+    release: 20
+    mergedPR: 714
+    openPR: 131
+    closedIssue: 554
+    openIssue: 155
+    commit: 1857
+total:
+  release: 20
+  mergedPR: 714
+  openPR: 131
+  closedIssue: 554
+  openIssue: 155
+  commit: 1857
+---
+path: /home/runner/.x-repo/github.com/h4ckf0r0day/obscura
+collectedAt: 2026-11-28T09:04:43Z
+loc:
+  Rust:
+    code: 213873
+    comments: 8304
+    blanks: 14047
+    files: 310
+  JavaScript:
+    code: 19671
+    comments: 1718
+    blanks: 522
+    files: 4
+  Python:
+    code: 5833
+    comments: 60
+    blanks: 459
+    files: 17
+  Html:
+    code: 1327
+    comments: 0
+    blanks: 13
+    files: 86
+  Toml:
+    code: 792
+    comments: 95
+    blanks: 125
+    files: 17
+  Json:
+    code: 502
+    comments: 0
+    blanks: 0
+    files: 2
+  PowerShell:
+    code: 214
+    comments: 9
+    blanks: 12
+    files: 2
+  Sh:
+    code: 132
+    comments: 4
+    blanks: 9
+    files: 2
+  Dockerfile:
+    code: 36
+    comments: 22
+    blanks: 12
+    files: 1
+  Svg:
+    code: 36
+    comments: 0
+    blanks: 1
+    files: 1
+  Css:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3313
+    blanks: 1193
+    files: 34
+  Text:
+    code: 0
+    comments: 3709
+    blanks: 40
+    files: 6
+total:
+  code: 244822
+  comments: 26382
+  blanks: 17201
+  files: 483
+---
+
+---
